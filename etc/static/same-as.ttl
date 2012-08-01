@@ -1,0 +1,1526 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130969> owl:sameAs <http://dbpedia.org/resource/Princess_Maria_Luisa_Immaculata_of_Bourbon-Two_Sicilies> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135773> owl:sameAs <http://dbpedia.org/resource/Henry_Rawlinson,_1st_Baron_Rawlinson> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130705> owl:sameAs <http://dbpedia.org/resource/James_II_of_England> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135089> owl:sameAs <http://dbpedia.org/resource/Gorell_Barnes,_1st_Baron_Gorell> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131096> owl:sameAs <http://dbpedia.org/resource/John_Churchill,_1st_Duke_of_Marlborough> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135088> owl:sameAs <http://dbpedia.org/resource/Edwin_Lutyens> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130836> owl:sameAs <http://dbpedia.org/resource/Charles_James_Fox> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130704> owl:sameAs <http://dbpedia.org/resource/Heneage_Finch,_2nd_Earl_of_Aylesford> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131095> owl:sameAs <http://dbpedia.org/resource/Prince_Eugene_of_Savoy> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130967> owl:sameAs <http://dbpedia.org/resource/Countess_Maria_Carolina_Zamoyska> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135772> owl:sameAs <http://dbpedia.org/resource/Ren%C3%A9_Viviani> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135640> owl:sameAs <http://dbpedia.org/resource/John_Brown_Hamilton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130835> owl:sameAs <http://dbpedia.org/resource/Edmund_Burke> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135087> owl:sameAs <http://dbpedia.org/resource/John_Locke> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134460> owl:sameAs <http://dbpedia.org/resource/Charles_Blount,_8th_Baron_Mountjoy> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131094> owl:sameAs <http://dbpedia.org/resource/Prince_Rupert_of_the_Rhine> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130966> owl:sameAs <http://dbpedia.org/resource/Sir_John_Acton,_6th_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135086> owl:sameAs <http://dbpedia.org/resource/Louis_Bonaparte> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130834> owl:sameAs <http://dbpedia.org/resource/Henry_Booth,_1st_Earl_of_Warrington> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130702> owl:sameAs <http://dbpedia.org/resource/George_III_of_the_United_Kingdom> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138583> owl:sameAs <http://dbpedia.org/resource/Lloyd_Kenyon,_1st_Baron_Kenyon> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130965> owl:sameAs <http://dbpedia.org/resource/Emma,_Lady_Hamilton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130833> owl:sameAs <http://dbpedia.org/resource/Hans_Caspar_von_Bothmer> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130701> owl:sameAs <http://dbpedia.org/resource/Henry_Bilson-Legge> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135639> owl:sameAs <http://dbpedia.org/resource/Princess_Helena_Victoria_of_Schleswig-Holstein> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136029> owl:sameAs <http://dbpedia.org/resource/Francis_Hayman> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138582> owl:sameAs <http://dbpedia.org/resource/William_Henry_Ashurst_%28judge%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130700> owl:sameAs <http://dbpedia.org/resource/Robert_Walpole> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135638> owl:sameAs <http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136028> owl:sameAs <http://dbpedia.org/resource/John_Gwynn> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138318> owl:sameAs <http://dbpedia.org/resource/John_Leslie,_1st_Duke_of_Rothes> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130963> owl:sameAs <http://dbpedia.org/resource/William_Hamilton_%28diplomat%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135769> owl:sameAs <http://dbpedia.org/resource/Clive_Wigram,_1st_Baron_Wigram> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135637> owl:sameAs <http://dbpedia.org/resource/Princess_Alice_of_the_United_Kingdom> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138580> owl:sameAs <http://dbpedia.org/resource/Henry_Bathurst,_2nd_Earl_Bathurst> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134456> owl:sameAs <http://dbpedia.org/resource/Edward_Hoby> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135768> owl:sameAs <http://dbpedia.org/resource/Pratap_Singh_of_Idar> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136026> owl:sameAs <http://dbpedia.org/resource/Giovanni_Battista_Cipriani> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130961> owl:sameAs <http://dbpedia.org/resource/Marie_Clotilde_of_France> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138316> owl:sameAs <http://dbpedia.org/resource/James_Douglas,_4th_Earl_of_Morton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134587> owl:sameAs <http://dbpedia.org/resource/Richard_Steele> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130960> owl:sameAs <http://dbpedia.org/resource/Ferdinand_I_of_the_Two_Sicilies> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135766> owl:sameAs <http://dbpedia.org/resource/Ganga_Singh> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138579> owl:sameAs <http://dbpedia.org/resource/John_Bayley_%28judge%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131087> owl:sameAs <http://dbpedia.org/resource/Francis_Drake> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136024> owl:sameAs <http://dbpedia.org/resource/Agostino_Carlini> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136023> owl:sameAs <http://dbpedia.org/resource/George_Barret,_Sr.> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131086> owl:sameAs <http://dbpedia.org/resource/Henry_Paget,_1st_Marquess_of_Anglesey> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136022> owl:sameAs <http://dbpedia.org/resource/Federico_Garc%C3%ADa_Lorca> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130959> owl:sameAs <http://dbpedia.org/resource/John_A._Macdonald> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131085> owl:sameAs <http://dbpedia.org/resource/Edward_Paget> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135894> owl:sameAs <http://dbpedia.org/resource/Henry_Vane_the_Younger> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138576> owl:sameAs <http://dbpedia.org/resource/Thomas_Wilde,_1st_Baron_Truro> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138311> owl:sameAs <http://dbpedia.org/resource/John_Graham,_1st_Viscount_of_Dundee> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131084> owl:sameAs <http://dbpedia.org/resource/William_Cecil,_1st_Baron_Burghley> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130957> owl:sameAs <http://dbpedia.org/resource/William_IV_of_the_United_Kingdom> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138310> owl:sameAs <http://dbpedia.org/resource/James_Graham,_1st_Marquess_of_Montrose> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131083> owl:sameAs <http://dbpedia.org/resource/Charles_Grant,_1st_Baron_Glenelg> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131082> owl:sameAs <http://dbpedia.org/resource/Queen_Elizabeth_The_Queen_Mother> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138573> owl:sameAs <http://dbpedia.org/resource/John_Campbell,_1st_Baron_Campbell> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135891> owl:sameAs <http://dbpedia.org/resource/William_Cavendish,_1st_Duke_of_Newcastle-upon-Tyne> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130954> owl:sameAs <http://dbpedia.org/resource/George_IV_of_the_United_Kingdom> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131080> owl:sameAs <http://dbpedia.org/resource/Sir_John_Moore,_1st_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136017> owl:sameAs <http://dbpedia.org/resource/Otto_Klemperer> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135890> owl:sameAs <http://dbpedia.org/resource/William_Russell,_1st_Duke_of_Bedford> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130953> owl:sameAs <http://dbpedia.org/resource/Reginald_Wingate> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133897> owl:sameAs <http://dbpedia.org/resource/James_Vernon_the_younger> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134578> owl:sameAs <http://dbpedia.org/resource/Sir_John_Eardley-Wilmot,_1st_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130952> owl:sameAs <http://dbpedia.org/resource/Herbert_Kitchener,_1st_Earl_Kitchener> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131079> owl:sameAs <http://dbpedia.org/resource/Leopold_I,_Holy_Roman_Emperor> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135757> owl:sameAs <http://dbpedia.org/resource/Rabindranath_Tagore> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138306> owl:sameAs <http://dbpedia.org/resource/George_Gordon,_2nd_Marquess_of_Huntly> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130951> owl:sameAs <http://dbpedia.org/resource/Evelyn_Baring,_1st_Earl_of_Cromer> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131078> owl:sameAs <http://dbpedia.org/resource/Robert_Clive,_1st_Baron_Clive> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135756> owl:sameAs <http://dbpedia.org/resource/Louisa_Beresford,_Marchioness_of_Waterford> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138569> owl:sameAs <http://dbpedia.org/resource/John_Somers,_1st_Baron_Somers> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138305> owl:sameAs <http://dbpedia.org/resource/William_Kerr,_1st_Earl_of_Lothian> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134576> owl:sameAs <http://dbpedia.org/resource/Richard_Chancellor> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130950> owl:sameAs <http://dbpedia.org/resource/John_Eldon_Gorst> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135623> owl:sameAs <http://dbpedia.org/resource/Harry_Bartell> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138304> owl:sameAs <http://dbpedia.org/resource/John_Maitland,_1st_Lord_Maitland_of_Thirlestane> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135754> owl:sameAs <http://dbpedia.org/resource/Haile_Selassie_I> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138567> owl:sameAs <http://dbpedia.org/resource/Sir_Henry_Russell,_1st_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134573> owl:sameAs <http://dbpedia.org/resource/Lady_Charlotte_Finch> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138566> owl:sameAs <http://dbpedia.org/resource/Edward_Hall_Alderson> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130948> owl:sameAs <http://dbpedia.org/resource/George_Buchanan_%28diplomat%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135883> owl:sameAs <http://dbpedia.org/resource/Dan_Connolly_%28musician%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135751> owl:sameAs <http://dbpedia.org/resource/Ringo_Starr> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130947> owl:sameAs <http://dbpedia.org/resource/James_Douglas,_2nd_Duke_of_Queensberry> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138565> owl:sameAs <http://dbpedia.org/resource/William_Thomson,_1st_Baron_Kelvin> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134572> owl:sameAs <http://dbpedia.org/resource/Raymond_Poincar%C3%A9> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131072> owl:sameAs <http://dbpedia.org/resource/Sir_Edward_Wortley_Montagu> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135882> owl:sameAs <http://dbpedia.org/resource/Tim_Berners-Lee> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135750> owl:sameAs <http://dbpedia.org/resource/Paul_McCartney> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/139112> owl:sameAs <http://dbpedia.org/resource/William_Blackstone> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130945> owl:sameAs <http://dbpedia.org/resource/Richard_Haldane,_1st_Viscount_Haldane> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131071> owl:sameAs <http://dbpedia.org/resource/George_Child_Villiers,_5th_Earl_of_Jersey> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130944> owl:sameAs <http://dbpedia.org/resource/Richard_Bethell,_1st_Baron_Westbury> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136007> owl:sameAs <http://dbpedia.org/resource/Anthony_van_Dyck> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135880> owl:sameAs <http://dbpedia.org/resource/Alan_Kotok> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130943> owl:sameAs <http://dbpedia.org/resource/Edward_Macnaghten,_Baron_Macnaghten> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135749> owl:sameAs <http://dbpedia.org/resource/John_Lennon> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135617> owl:sameAs <http://dbpedia.org/resource/Prince_Arthur,_Duke_of_Connaught_and_Strathearn> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131070> owl:sameAs <http://dbpedia.org/resource/Francis_Russell,_5th_Duke_of_Bedford> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135748> owl:sameAs <http://dbpedia.org/resource/George_Harrison> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135616> owl:sameAs <http://dbpedia.org/resource/Henry_Irving> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135879> owl:sameAs <http://dbpedia.org/resource/John_Hampden_Burnham> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131069> owl:sameAs <http://dbpedia.org/resource/Christopher_Wren> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130941> owl:sameAs <http://dbpedia.org/resource/Edward_VIII_of_the_United_Kingdom> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135747> owl:sameAs <http://dbpedia.org/resource/Joseph_Joffre> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135615> owl:sameAs <http://dbpedia.org/resource/Cecil_Rhodes> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135614> owl:sameAs <http://dbpedia.org/resource/Otto_von_Bismarck> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131068> owl:sameAs <http://dbpedia.org/resource/Grinling_Gibbons> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133885> owl:sameAs <http://dbpedia.org/resource/John_Ponsonby,_4th_Earl_of_Bessborough> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134434> owl:sameAs <http://dbpedia.org/resource/George_Clifford,_3rd_Earl_of_Cumberland> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/139108> owl:sameAs <http://dbpedia.org/resource/Samuel_Thomas_Evans> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131067> owl:sameAs <http://dbpedia.org/resource/Christopher_Hatton,_1st_Viscount_Hatton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130809> owl:sameAs <http://dbpedia.org/resource/John_Lowther,_1st_Viscount_Lonsdale> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134433> owl:sameAs <http://dbpedia.org/resource/Edmund_Sheffield,_1st_Earl_of_Mulgrave> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135877> owl:sameAs <http://dbpedia.org/resource/George_Abbot_%28bishop%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134432> owl:sameAs <http://dbpedia.org/resource/Robert_Southwell_%28diplomat%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131066> owl:sameAs <http://dbpedia.org/resource/Henry_Sydney,_1st_Earl_of_Romney> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135744> owl:sameAs <http://dbpedia.org/resource/Maurice_Gamelin> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135612> owl:sameAs <http://dbpedia.org/resource/Rudyard_Kipling> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135058> owl:sameAs <http://dbpedia.org/resource/Henry_Maxwell_Lyte> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130939> owl:sameAs <http://dbpedia.org/resource/Francis_Osborne,_5th_Duke_of_Leeds> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134431> owl:sameAs <http://dbpedia.org/resource/Edward_Fenton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131197> owl:sameAs <http://dbpedia.org/resource/George_Dance_the_Younger> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135875> owl:sameAs <http://dbpedia.org/resource/Sir_William_Temple,_1st_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136687> owl:sameAs <http://dbpedia.org/resource/Edward_Hyde,_1st_Earl_of_Clarendon> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135610> owl:sameAs <http://dbpedia.org/resource/James_Abbott_McNeill_Whistler> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136686> owl:sameAs <http://dbpedia.org/resource/Philip_Snowden,_1st_Viscount_Snowden> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/139104> owl:sameAs <http://dbpedia.org/resource/Richard_Collins,_Baron_Collins> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135872> owl:sameAs <http://dbpedia.org/resource/Algernon_Percy,_10th_Earl_of_Northumberland> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134693> owl:sameAs <http://dbpedia.org/resource/Hugh_Trenchard,_1st_Viscount_Trenchard> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133880> owl:sameAs <http://dbpedia.org/resource/William_Wilberforce> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135740> owl:sameAs <http://dbpedia.org/resource/Robin_Leigh-Pemberton,_Baron_Kingsdown> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135609> owl:sameAs <http://dbpedia.org/resource/Henry_Hawkins,_1st_Baron_Brampton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130935> owl:sameAs <http://dbpedia.org/resource/Henry_VIII_of_England> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134429> owl:sameAs <http://dbpedia.org/resource/William_Winter_%28Royal_Navy_officer%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135054> owl:sameAs <http://dbpedia.org/resource/Angelica_Garnett> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134428> owl:sameAs <http://dbpedia.org/resource/Henry_Percy,_Baron_Percy_of_Alnwick> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130802> owl:sameAs <http://dbpedia.org/resource/Tony_Blair> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135608> owl:sameAs <http://dbpedia.org/resource/Frederick_Roberts,_1st_Earl_Roberts> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131061> owl:sameAs <http://dbpedia.org/resource/William_Beresford,_1st_Viscount_Beresford> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135870> owl:sameAs <http://dbpedia.org/resource/George_Digby,_2nd_Earl_of_Bristol> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134559> owl:sameAs <http://dbpedia.org/resource/John_Campbell,_3rd_Earl_of_Breadalbane_and_Holland> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135607> owl:sameAs <http://dbpedia.org/resource/Frederick_Temple> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130933> owl:sameAs <http://dbpedia.org/resource/Edward_VII_of_the_United_Kingdom> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130801> owl:sameAs <http://dbpedia.org/resource/John_Major> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133878> owl:sameAs <http://dbpedia.org/resource/Paul_Scofield> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135606> owl:sameAs <http://dbpedia.org/resource/Anthony_Musgrave> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130932> owl:sameAs <http://dbpedia.org/resource/Alexandra_of_Denmark> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130800> owl:sameAs <http://dbpedia.org/resource/Margaret_Thatcher> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133877> owl:sameAs <http://dbpedia.org/resource/Claire_Bloom> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136682> owl:sameAs <http://dbpedia.org/resource/Robert_Chalmers,_1st_Baron_Chalmers> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131191> owl:sameAs <http://dbpedia.org/resource/James_Wyatt> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133876> owl:sameAs <http://dbpedia.org/resource/Edward_Codrington> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130931> owl:sameAs <http://dbpedia.org/resource/Lionel_Sackville,_1st_Duke_of_Dorset> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135737> owl:sameAs <http://dbpedia.org/resource/Hew_Locke> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130930> owl:sameAs <http://dbpedia.org/resource/George_Washington_Bush> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131058> owl:sameAs <http://dbpedia.org/resource/Gustav_III_of_Sweden> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133875> owl:sameAs <http://dbpedia.org/resource/Alfred,_Duke_of_Saxe-Coburg_and_Gotha> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135868> owl:sameAs <http://dbpedia.org/resource/Edward_Gibbon> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131189> owl:sameAs <http://dbpedia.org/resource/Thomas_Lawrence> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131057> owl:sameAs <http://dbpedia.org/resource/Augustus_Keppel,_1st_Viscount_Keppel> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133874> owl:sameAs <http://dbpedia.org/resource/John_Lambton,_1st_Earl_of_Durham> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135867> owl:sameAs <http://dbpedia.org/resource/Nicholas_Soames> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131056> owl:sameAs <http://dbpedia.org/resource/William_Keppel,_4th_Earl_of_Albemarle> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136679> owl:sameAs <http://dbpedia.org/resource/William_Lowndes_Yancey> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133873> owl:sameAs <http://dbpedia.org/resource/John_Jervis,_1st_Earl_of_St_Vincent> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135866> owl:sameAs <http://dbpedia.org/resource/Elizabeth_Bowes-Lyon> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135734> owl:sameAs <http://dbpedia.org/resource/Mick_Jagger> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135602> owl:sameAs <http://dbpedia.org/resource/George_Davidson_Grant> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136678> owl:sameAs <http://dbpedia.org/resource/George_Julius_Poulett_Scrope> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133872> owl:sameAs <http://dbpedia.org/resource/Pat_Flanagan> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135733> owl:sameAs <http://dbpedia.org/resource/Simon_Fraser_Tolmie> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138546> owl:sameAs <http://dbpedia.org/resource/Victor_Cavendish,_9th_Duke_of_Devonshire> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135600> owl:sameAs <http://dbpedia.org/resource/Mathilde_Bonaparte> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131054> owl:sameAs <http://dbpedia.org/resource/Elizabeth_I_of_England> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133871> owl:sameAs <http://dbpedia.org/resource/Joshua_Reynolds> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135732> owl:sameAs <http://dbpedia.org/resource/William_Windham> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134684> owl:sameAs <http://dbpedia.org/resource/William_Cadogan,_1st_Earl_Cadogan> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133870> owl:sameAs <http://dbpedia.org/resource/Geoffrey_Chaucer> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135731> owl:sameAs <http://dbpedia.org/resource/George_Orwell> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130927> owl:sameAs <http://dbpedia.org/resource/Walter_Raleigh> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131053> owl:sameAs <http://dbpedia.org/resource/George_Legge,_1st_Baron_Dartmouth> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135730> owl:sameAs <http://dbpedia.org/resource/Samuel_Romilly> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131052> owl:sameAs <http://dbpedia.org/resource/Thomas_Butler,_6th_Earl_of_Ossory> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134682> owl:sameAs <http://dbpedia.org/resource/Pablo_Picasso> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131051> owl:sameAs <http://dbpedia.org/resource/Charles_Mordaunt,_3rd_Earl_of_Peterborough> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134681> owl:sameAs <http://dbpedia.org/resource/James_Harris,_3rd_Earl_of_Malmesbury> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135729> owl:sameAs <http://dbpedia.org/resource/William_Wood,_1st_Baron_Hatherley> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131050> owl:sameAs <http://dbpedia.org/resource/Lady_Arbella_Stuart> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134680> owl:sameAs <http://dbpedia.org/resource/Sir_Job_Charlton,_1st_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136672> owl:sameAs <http://dbpedia.org/resource/William_Adamson> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131181> owl:sameAs <http://dbpedia.org/resource/Prince_Augustus_Frederick,_Duke_of_Sussex> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133999> owl:sameAs <http://dbpedia.org/resource/Philip_Affleck> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135727> owl:sameAs <http://dbpedia.org/resource/Edward_George_Clarke> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136671> owl:sameAs <http://dbpedia.org/resource/Sir_John_Gilmour,_2nd_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131180> owl:sameAs <http://dbpedia.org/resource/Prince_Adolphus,_Duke_of_Cambridge> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131049> owl:sameAs <http://dbpedia.org/resource/George_Hamilton_Seymour> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133866> owl:sameAs <http://dbpedia.org/resource/William_Lowther,_2nd_Earl_of_Lonsdale> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133865> owl:sameAs <http://dbpedia.org/resource/William_Stratton_%28British_Army_officer%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136670> owl:sameAs <http://dbpedia.org/resource/John_Erskine,_22nd_Earl_of_Mar> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135726> owl:sameAs <http://dbpedia.org/resource/Nigel_Lawson> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131048> owl:sameAs <http://dbpedia.org/resource/Edmund_Hammond,_1st_Baron_Hammond> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135725> owl:sameAs <http://dbpedia.org/resource/Thomas_Trevor,_1st_Baron_Trevor> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131179> owl:sameAs <http://dbpedia.org/resource/Ernest_Augustus_I_of_Hanover> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133864> owl:sameAs <http://dbpedia.org/resource/Henry_Brougham,_1st_Baron_Brougham_and_Vaux> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131178> owl:sameAs <http://dbpedia.org/resource/Prince_Edward,_Duke_of_Kent_and_Strathearn> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135724> owl:sameAs <http://dbpedia.org/resource/Charles_Pratt,_1st_Earl_Camden> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136669> owl:sameAs <http://dbpedia.org/resource/John_Hay,_4th_Marquess_of_Tweeddale> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133863> owl:sameAs <http://dbpedia.org/resource/Sir_Mark_MacTaggart-Stewart,_1st_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135856> owl:sameAs <http://dbpedia.org/resource/Philip_Broke> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131045> owl:sameAs <http://dbpedia.org/resource/Henry_VI_of_England> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131177> owl:sameAs <http://dbpedia.org/resource/Princess_Amelia_of_the_United_Kingdom> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135723> owl:sameAs <http://dbpedia.org/resource/Anthony_Ashley-Cooper,_7th_Earl_of_Shaftesbury> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138536> owl:sameAs <http://dbpedia.org/resource/Henry_Campbell-Bannerman> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138535> owl:sameAs <http://dbpedia.org/resource/Maxim_Gorky> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135722> owl:sameAs <http://dbpedia.org/resource/Matthew_Hale_%28jurist%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135854> owl:sameAs <http://dbpedia.org/resource/Florence_Nightingale> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131176> owl:sameAs <http://dbpedia.org/resource/Princess_Sophia_of_the_United_Kingdom> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136667> owl:sameAs <http://dbpedia.org/resource/John_Ker,_1st_Duke_of_Roxburghe> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131044> owl:sameAs <http://dbpedia.org/resource/George_Villiers,_4th_Earl_of_Clarendon> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133861> owl:sameAs <http://dbpedia.org/resource/Godfrey_Kneller> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131175> owl:sameAs <http://dbpedia.org/resource/Princess_Mary,_Duchess_of_Gloucester_and_Edinburgh> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135036> owl:sameAs <http://dbpedia.org/resource/Henry_St_John,_1st_Viscount_Bolingbroke> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136666> owl:sameAs <http://dbpedia.org/resource/James_Graham,_1st_Duke_of_Montrose> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133860> owl:sameAs <http://dbpedia.org/resource/George_Clerk_%28diplomat%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136111> owl:sameAs <http://dbpedia.org/resource/Francis_Bacon> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135035> owl:sameAs <http://dbpedia.org/resource/John_Kasmin> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131174> owl:sameAs <http://dbpedia.org/resource/Princess_Augusta_Sophia_of_the_United_Kingdom> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138533> owl:sameAs <http://dbpedia.org/resource/Lucian_Freud> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131173> owl:sameAs <http://dbpedia.org/resource/Charlotte,_Princess_Royal> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135719> owl:sameAs <http://dbpedia.org/resource/James_Fitzjames_Stephen> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130913> owl:sameAs <http://dbpedia.org/resource/Sir_Richard_Fanshawe,_1st_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134407> owl:sameAs <http://dbpedia.org/resource/Robert_Carey,_1st_Earl_of_Monmouth> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131172> owl:sameAs <http://dbpedia.org/resource/Prince_Frederick,_Duke_of_York_and_Albany> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136794> owl:sameAs <http://dbpedia.org/resource/Charles_Middleton,_1st_Baron_Barham> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134406> owl:sameAs <http://dbpedia.org/resource/John_Hawkins> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133989> owl:sameAs <http://dbpedia.org/resource/Thomas_Erskine,_1st_Baron_Erskine> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135718> owl:sameAs <http://dbpedia.org/resource/Hugh_Childers> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135717> owl:sameAs <http://dbpedia.org/resource/James_Eyre_%28British_Army_officer%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133988> owl:sameAs <http://dbpedia.org/resource/W._S._Pakenham-Walsh> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136793> owl:sameAs <http://dbpedia.org/resource/Robert_Blake_%28Medal_of_Honor%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136107> owl:sameAs <http://dbpedia.org/resource/Edward_Law,_1st_Baron_Ellenborough> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138792> owl:sameAs <http://dbpedia.org/resource/Thomas_Wintour> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134668> owl:sameAs <http://dbpedia.org/resource/Alleyne_FitzHerbert,_1st_Baron_St_Helens> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130910> owl:sameAs <http://dbpedia.org/resource/Austen_Henry_Layard> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135716> owl:sameAs <http://dbpedia.org/resource/R._A._Cross,_1st_Viscount_Cross> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138529> owl:sameAs <http://dbpedia.org/resource/Thomas_Townshend,_1st_Viscount_Sydney> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134667> owl:sameAs <http://dbpedia.org/resource/Henrietta_Ponsonby,_Countess_of_Bessborough> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135715> owl:sameAs <http://dbpedia.org/resource/Gathorne_Gathorne-Hardy,_1st_Earl_of_Cranbrook> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138528> owl:sameAs <http://dbpedia.org/resource/John_Pratt,_1st_Marquess_Camden> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135714> owl:sameAs <http://dbpedia.org/resource/William_Augustus_Montagu> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134666> owl:sameAs <http://dbpedia.org/resource/James_Hamilton,_3rd_Duke_of_Abercorn> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134665> owl:sameAs <http://dbpedia.org/resource/Priscilla_Bertie,_21st_Baroness_Willoughby_de_Eresby> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131299> owl:sameAs <http://dbpedia.org/resource/Samuel_Cooper_%28general%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/137865> owl:sameAs <http://dbpedia.org/resource/Robert_Finlay,_1st_Viscount_Finlay> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136656> owl:sameAs <http://dbpedia.org/resource/George_Cave,_1st_Viscount_Cave> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131297> owl:sameAs <http://dbpedia.org/resource/Samuel_A._Ward> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131033> owl:sameAs <http://dbpedia.org/resource/John_Copley,_1st_Baron_Lyndhurst> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131164> owl:sameAs <http://dbpedia.org/resource/John_Hely-Hutchinson,_2nd_Earl_of_Donoughmore> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136655> owl:sameAs <http://dbpedia.org/resource/F._E._Smith,_1st_Earl_of_Birkenhead> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131032> owl:sameAs <http://dbpedia.org/resource/James_Brydges,_8th_Baron_Chandos> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135710> owl:sameAs <http://dbpedia.org/resource/Thomas_Parker,_1st_Earl_of_Macclesfield> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136654> owl:sameAs <http://dbpedia.org/resource/Archibald_Bodkin> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131031> owl:sameAs <http://dbpedia.org/resource/Mary_II_of_England> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131295> owl:sameAs <http://dbpedia.org/resource/William_Hendricks> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130904> owl:sameAs <http://dbpedia.org/resource/Thomas_Osborne,_1st_Duke_of_Leeds> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131030> owl:sameAs <http://dbpedia.org/resource/Margaret_Hughes> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131162> owl:sameAs <http://dbpedia.org/resource/Dalrymple_Arbuthnot> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131294> owl:sameAs <http://dbpedia.org/resource/Return_J._Meigs,_Jr.> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135709> owl:sameAs <http://dbpedia.org/resource/Robert_Price_%28judge%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130903> owl:sameAs <http://dbpedia.org/resource/Thomas_Clifford,_1st_Baron_Clifford_of_Chudleigh> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135708> owl:sameAs <http://dbpedia.org/resource/Spencer_Horatio_Walpole> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136652> owl:sameAs <http://dbpedia.org/resource/A._M._Sullivan_%28lawyer%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135707> owl:sameAs <http://dbpedia.org/resource/Hugh_Cairns,_1st_Earl_Cairns> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130901> owl:sameAs <http://dbpedia.org/resource/Garnet_Wolseley,_1st_Viscount_Wolseley> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138782> owl:sameAs <http://dbpedia.org/resource/Anthony_Barber> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130900> owl:sameAs <http://dbpedia.org/resource/Mary_of_Teck> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135837> owl:sameAs <http://dbpedia.org/resource/George_Macartney,_1st_Earl_Macartney> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131290> owl:sameAs <http://dbpedia.org/resource/William_Thompson_%28general%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135705> owl:sameAs <http://dbpedia.org/resource/John_Coleridge,_1st_Baron_Coleridge> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138781> owl:sameAs <http://dbpedia.org/resource/Roy_Jenkins> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135151> owl:sameAs <http://dbpedia.org/resource/Zinaida_Volkonskaya> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135836> owl:sameAs <http://dbpedia.org/resource/Sir_John_Beresford,_1st_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131026> owl:sameAs <http://dbpedia.org/resource/James_I_of_England> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138780> owl:sameAs <http://dbpedia.org/resource/Reginald_Maudling> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136649> owl:sameAs <http://dbpedia.org/resource/George_Gavan_Duffy> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135835> owl:sameAs <http://dbpedia.org/resource/Charles_George_Gordon> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135703> owl:sameAs <http://dbpedia.org/resource/Edwin_Wilkins_Field> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135702> owl:sameAs <http://dbpedia.org/resource/Sir_George_Jessel> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135834> owl:sameAs <http://dbpedia.org/resource/Richard_Airey,_1st_Baron_Airey> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131288> owl:sameAs <http://dbpedia.org/resource/John_Alexander_MacPherson> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131023> owl:sameAs <http://dbpedia.org/resource/Oliver_Cromwell> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135833> owl:sameAs <http://dbpedia.org/resource/Robert_Gardiner_%28British_Army_officer%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135701> owl:sameAs <http://dbpedia.org/resource/John_Mellor_%28judge%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138778> owl:sameAs <http://dbpedia.org/resource/Peter_Thorneycroft,_Baron_Thorneycroft> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138777> owl:sameAs <http://dbpedia.org/resource/Robert_Gascoyne-Cecil,_5th_Marquess_of_Salisbury> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131022> owl:sameAs <http://dbpedia.org/resource/Francis_Hastings,_10th_Earl_of_Huntingdon> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135832> owl:sameAs <http://dbpedia.org/resource/Alexander_George_Woodford> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131286> owl:sameAs <http://dbpedia.org/resource/Richard_Montgomery> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138776> owl:sameAs <http://dbpedia.org/resource/Rab_Butler> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135831> owl:sameAs <http://dbpedia.org/resource/Bertrand_Russell> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134099> owl:sameAs <http://dbpedia.org/resource/Alfred_de_Dreux> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136644> owl:sameAs <http://dbpedia.org/resource/Alfred_Lawrence,_1st_Baron_Trevethin> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131285> owl:sameAs <http://dbpedia.org/resource/Sir_David_Dundas,_1st_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131021> owl:sameAs <http://dbpedia.org/resource/Thomas_Cochrane,_10th_Earl_of_Dundonald> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135830> owl:sameAs <http://dbpedia.org/resource/George_Rooke> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134098> owl:sameAs <http://dbpedia.org/resource/Napoleon_Louis_Bonaparte> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131020> owl:sameAs <http://dbpedia.org/resource/Jack_Fingleton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131152> owl:sameAs <http://dbpedia.org/resource/Samuel_Sutton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134097> owl:sameAs <http://dbpedia.org/resource/Charles_Lemercier_de_Longpr%C3%A9,_baron_d%27Haussez> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135145> owl:sameAs <http://dbpedia.org/resource/William_H._Smith_%28Medal_of_Honor%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134650> owl:sameAs <http://dbpedia.org/resource/Hywel_Bennett> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136642> owl:sameAs <http://dbpedia.org/resource/Charles_Darling,_1st_Baron_Darling> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133969> owl:sameAs <http://dbpedia.org/resource/C%C3%A2ndida_Branca_Flor> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131283> owl:sameAs <http://dbpedia.org/resource/William_Fawcett_%28British_Army_officer%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134095> owl:sameAs <http://dbpedia.org/resource/Jean_Antoine_Th%C3%A9odore_de_Gudin> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134649> owl:sameAs <http://dbpedia.org/resource/Thomas_Wentworth,_1st_Earl_of_Strafford> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135143> owl:sameAs <http://dbpedia.org/resource/Napol%C3%A9on,_Prince_Imperial> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133968> owl:sameAs <http://dbpedia.org/resource/Ernest_Bevin> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136641> owl:sameAs <http://dbpedia.org/resource/Roger_Casement> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135829> owl:sameAs <http://dbpedia.org/resource/Arthur_Balfour> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135142> owl:sameAs <http://dbpedia.org/resource/Thomas_Dewing> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136640> owl:sameAs <http://dbpedia.org/resource/James_Burrow> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133966> owl:sameAs <http://dbpedia.org/resource/John_Morgan_Davis> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134647> owl:sameAs <http://dbpedia.org/resource/English_Council_of_State> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135141> owl:sameAs <http://dbpedia.org/resource/Richard_Grosvenor,_1st_Earl_Grosvenor> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138086> owl:sameAs <http://dbpedia.org/resource/Charles_Edward_Stuart> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134646> owl:sameAs <http://dbpedia.org/resource/Thomas_Wharton,_1st_Marquess_of_Wharton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131148> owl:sameAs <http://dbpedia.org/resource/Sidney_Smith_%28Royal_Navy_officer%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131147> owl:sameAs <http://dbpedia.org/resource/Andrew_Blayney,_11th_Baron_Blayney> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134091> owl:sameAs <http://dbpedia.org/resource/Constantine_Phipps,_1st_Marquess_of_Normanby> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134512> owl:sameAs <http://dbpedia.org/resource/Caroline_of_Brunswick> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135138> owl:sameAs <http://dbpedia.org/resource/Georgiana_Cavendish,_Duchess_of_Devonshire> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131145> owl:sameAs <http://dbpedia.org/resource/John_Hope,_4th_Earl_of_Hopetoun> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131277> owl:sameAs <http://dbpedia.org/resource/John_Hoppner> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134642> owl:sameAs <http://dbpedia.org/resource/William_Ellis_%28solicitor-general%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134510> owl:sameAs <http://dbpedia.org/resource/Catherine_of_Braganza> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134089> owl:sameAs <http://dbpedia.org/resource/Robert_Burns> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134088> owl:sameAs <http://dbpedia.org/resource/Henry_de_Worms,_1st_Baron_Pirbright> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138765> owl:sameAs <http://dbpedia.org/resource/Hugh_Gaitskell> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134640> owl:sameAs <http://dbpedia.org/resource/Joseph_Jekyll> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134509> owl:sameAs <http://dbpedia.org/resource/Herbert_Cozens-Hardy,_1st_Baron_Cozens-Hardy> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134639> owl:sameAs <http://dbpedia.org/resource/Thomas_Denman,_1st_Baron_Denman> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134507> owl:sameAs <http://dbpedia.org/resource/William_Petyt> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138763> owl:sameAs <http://dbpedia.org/resource/Stafford_Cripps> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134506> owl:sameAs <http://dbpedia.org/resource/Frank_Abney_Hastings> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138762> owl:sameAs <http://dbpedia.org/resource/Hugh_Dalton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135817> owl:sameAs <http://dbpedia.org/resource/Alexander_Wedderburn,_1st_Earl_of_Rosslyn> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135131> owl:sameAs <http://dbpedia.org/resource/Richard_Grenville-Temple,_2nd_Earl_Temple> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138076> owl:sameAs <http://dbpedia.org/resource/John_Manners,_7th_Duke_of_Rutland> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134083> owl:sameAs <http://dbpedia.org/resource/Horatio_Walpole,_1st_Baron_Walpole> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135816> owl:sameAs <http://dbpedia.org/resource/James_Cecil,_1st_Marquess_of_Salisbury> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134504> owl:sameAs <http://dbpedia.org/resource/George_Augustus_Eliott,_1st_Baron_Heathfield> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138075> owl:sameAs <http://dbpedia.org/resource/George_Ward_Hunt> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138760> owl:sameAs <http://dbpedia.org/resource/John_Anderson,_1st_Viscount_Waverley> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138074> owl:sameAs <http://dbpedia.org/resource/Stafford_Northcote,_1st_Earl_of_Iddesleigh> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134899> owl:sameAs <http://dbpedia.org/resource/Thomas_Osborne,_1st_Duke_of_Leeds> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131004> owl:sameAs <http://dbpedia.org/resource/Frederick_Hamilton-Temple-Blackwood,_1st_Marquess_of_Dufferin_and_Ava> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131268> owl:sameAs <http://dbpedia.org/resource/John_Opie> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138073> owl:sameAs <http://dbpedia.org/resource/Henry_Herbert,_4th_Earl_of_Carnarvon> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138759> owl:sameAs <http://dbpedia.org/resource/Kingsley_Wood> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134898> owl:sameAs <http://dbpedia.org/resource/Sidney_Herbert,_1st_Baron_Herbert_of_Lea> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131135> owl:sameAs <http://dbpedia.org/resource/George_Ludlow,_3rd_Earl_Ludlow> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138072> owl:sameAs <http://dbpedia.org/resource/Edward_Stanley,_15th_Earl_of_Derby> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134897> owl:sameAs <http://dbpedia.org/resource/Sir_George_Grey,_2nd_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135128> owl:sameAs <http://dbpedia.org/resource/Thomas_Howard,_4th_Duke_of_Norfolk> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131399> owl:sameAs <http://dbpedia.org/resource/Arthur_Cohen> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131266> owl:sameAs <http://dbpedia.org/resource/James_Northcote> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131002> owl:sameAs <http://dbpedia.org/resource/George_VI_of_the_United_Kingdom> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135944> owl:sameAs <http://dbpedia.org/resource/Thomas_Gainsborough> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135812> owl:sameAs <http://dbpedia.org/resource/Thomas_Skinner_%28Royal_Engineer%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138071> owl:sameAs <http://dbpedia.org/resource/Charles_Gordon-Lennox,_6th_Duke_of_Richmond> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134896> owl:sameAs <http://dbpedia.org/resource/Robert_Rolfe,_1st_Baron_Cranworth> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135127> owl:sameAs <http://dbpedia.org/resource/Edward_Seymour,_1st_Earl_of_Hertford> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136757> owl:sameAs <http://dbpedia.org/resource/Sir_Robert_Hamilton,_6th_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135126> owl:sameAs <http://dbpedia.org/resource/Sir_Geoffrey_Palmer,_1st_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134895> owl:sameAs <http://dbpedia.org/resource/Granville_Leveson-Gower,_2nd_Earl_Granville> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134631> owl:sameAs <http://dbpedia.org/resource/Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131397> owl:sameAs <http://dbpedia.org/resource/William_Fitzwilliam,_4th_Earl_Fitzwilliam> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138755> owl:sameAs <http://dbpedia.org/resource/Charles_Ritchie,_1st_Baron_Ritchie_of_Dundee> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131000> owl:sameAs <http://dbpedia.org/resource/James_Stewart,_1st_Duke_of_Richmond> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134894> owl:sameAs <http://dbpedia.org/resource/Henry_Petty-Fitzmaurice,_3rd_Marquess_of_Lansdowne> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138754> owl:sameAs <http://dbpedia.org/resource/George_Goschen,_1st_Viscount_Goschen> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135941> owl:sameAs <http://dbpedia.org/resource/Brian_Morris,_Baron_Morris_of_Castle_Morris> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134893> owl:sameAs <http://dbpedia.org/resource/George_Campbell,_8th_Duke_of_Argyll> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135940> owl:sameAs <http://dbpedia.org/resource/William_Henry_Smith_%28politician%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138753> owl:sameAs <http://dbpedia.org/resource/Lord_Randolph_Churchill> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134892> owl:sameAs <http://dbpedia.org/resource/Sir_William_Molesworth,_8th_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135809> owl:sameAs <http://dbpedia.org/resource/Robert_Napier,_1st_Baron_Napier_of_Magdala> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138752> owl:sameAs <http://dbpedia.org/resource/William_Vernon_Harcourt_%28politician%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134891> owl:sameAs <http://dbpedia.org/resource/Sir_James_Graham,_2nd_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135808> owl:sameAs <http://dbpedia.org/resource/Archibald_Clunes_Innes> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138751> owl:sameAs <http://dbpedia.org/resource/Michael_Hicks_Beach,_1st_Earl_St_Aldwyn> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134627> owl:sameAs <http://dbpedia.org/resource/George_Graham_Vest> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134890> owl:sameAs <http://dbpedia.org/resource/Charles_Wood,_1st_Viscount_Halifax> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135807> owl:sameAs <http://dbpedia.org/resource/Edgar_Vincent,_1st_Viscount_D%27Abernon> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134889> owl:sameAs <http://dbpedia.org/resource/Christopher_Teesdale> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131259> owl:sameAs <http://dbpedia.org/resource/John_Singleton_Copley> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131127> owl:sameAs <http://dbpedia.org/resource/Ralph_Abercromby> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135937> owl:sameAs <http://dbpedia.org/resource/William_Hogarth> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135805> owl:sameAs <http://dbpedia.org/resource/Sir_John_Beresford,_1st_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134888> owl:sameAs <http://dbpedia.org/resource/Sir_William_Williams,_1st_Baronet,_of_Kars> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131126> owl:sameAs <http://dbpedia.org/resource/James_Francis_Edward_Stuart> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135936> owl:sameAs <http://dbpedia.org/resource/Walter_Runciman,_1st_Viscount_Runciman_of_Doxford> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135804> owl:sameAs <http://dbpedia.org/resource/Humphrey_Bland> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138748> owl:sameAs <http://dbpedia.org/resource/Robert_Lowe> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134887> owl:sameAs <http://dbpedia.org/resource/Isaac_Newton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135803> owl:sameAs <http://dbpedia.org/resource/James_Brudenell,_7th_Earl_of_Cardigan> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138747> owl:sameAs <http://dbpedia.org/resource/Francis_Baring,_1st_Baron_Northbrook> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131124> owl:sameAs <http://dbpedia.org/resource/Lord_Byron> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135934> owl:sameAs <http://dbpedia.org/resource/William_Butler_Yeats> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138746> owl:sameAs <http://dbpedia.org/resource/Thomas_Spring_Rice,_1st_Baron_Monteagle_of_Brandon> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134885> owl:sameAs <http://dbpedia.org/resource/Inigo_Jones> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135801> owl:sameAs <http://dbpedia.org/resource/Simon_Fraser_of_Balnain> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135800> owl:sameAs <http://dbpedia.org/resource/Prince_George_of_Hesse-Darmstadt> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138743> owl:sameAs <http://dbpedia.org/resource/Nicholas_Vansittart,_1st_Baron_Bexley> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134881> owl:sameAs <http://dbpedia.org/resource/Laurence_Olivier> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133937> owl:sameAs <http://dbpedia.org/resource/George_Germain,_1st_Viscount_Sackville> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134617> owl:sameAs <http://dbpedia.org/resource/Henry_Frederick,_Prince_of_Wales> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134062> owl:sameAs <http://dbpedia.org/resource/Paul_C%C3%A9zanne> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134616> owl:sameAs <http://dbpedia.org/resource/Thomas_Coke,_1st_Earl_of_Leicester_%28seventh_creation%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131118> owl:sameAs <http://dbpedia.org/resource/Sir_Thomas_Hardy,_1st_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133934> owl:sameAs <http://dbpedia.org/resource/Edward_Smith-Stanley,_12th_Earl_of_Derby> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135927> owl:sameAs <http://dbpedia.org/resource/Robert_Cecil,_1st_Earl_of_Salisbury> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133933> owl:sameAs <http://dbpedia.org/resource/David_Garrick> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135926> owl:sameAs <http://dbpedia.org/resource/Robert_Dudley_%28explorer%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135108> owl:sameAs <http://dbpedia.org/resource/Thomas_Carlyle> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131115> owl:sameAs <http://dbpedia.org/resource/Edward_Grey,_1st_Viscount_Grey_of_Fallodon> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131246> owl:sameAs <http://dbpedia.org/resource/Johann_Zoffany> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131114> owl:sameAs <http://dbpedia.org/resource/John_Carmichael,_3rd_Earl_of_Hyndford> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130697> owl:sameAs <http://dbpedia.org/resource/Princess_Elizabeth_of_Great_Britain> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134059> owl:sameAs <http://dbpedia.org/resource/Charles_Henry_Churchill> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131113> owl:sameAs <http://dbpedia.org/resource/Richard_III_of_England> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134058> owl:sameAs <http://dbpedia.org/resource/Antonio_Canova> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135106> owl:sameAs <http://dbpedia.org/resource/John_Scott,_1st_Earl_of_Eldon> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131111> owl:sameAs <http://dbpedia.org/resource/Philip_Herbert,_4th_Earl_of_Pembroke> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135921> owl:sameAs <http://dbpedia.org/resource/Henry_Raeburn> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131110> owl:sameAs <http://dbpedia.org/resource/William_Herbert,_3rd_Earl_of_Pembroke> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131242> owl:sameAs <http://dbpedia.org/resource/Francesco_Bartolozzi> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135920> owl:sameAs <http://dbpedia.org/resource/Robert_Carr,_1st_Earl_of_Somerset> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130693> owl:sameAs <http://dbpedia.org/resource/Horatio_Nelson,_1st_Viscount_Nelson> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131240> owl:sameAs <http://dbpedia.org/resource/William_Chambers_%28architect%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135919> owl:sameAs <http://dbpedia.org/resource/Kenelm_Digby> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131109> owl:sameAs <http://dbpedia.org/resource/Jeffrey_Hudson> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131108> owl:sameAs <http://dbpedia.org/resource/Princess_Henrietta_of_England> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135917> owl:sameAs <http://dbpedia.org/resource/J._M._W._Turner> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134051> owl:sameAs <http://dbpedia.org/resource/Jonathan_Swift> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135916> owl:sameAs <http://dbpedia.org/resource/Lytton_Strachey> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134867> owl:sameAs <http://dbpedia.org/resource/John_Benbow> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134049> owl:sameAs <http://dbpedia.org/resource/Warren_Hastings> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134180> owl:sameAs <http://dbpedia.org/resource/Ibrahim_Pasha_of_Egypt> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131104> owl:sameAs <http://dbpedia.org/resource/William_II,_Prince_of_Orange> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131103> owl:sameAs <http://dbpedia.org/resource/Thomas_Wilson_Crothers> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131235> owl:sameAs <http://dbpedia.org/resource/Benjamin_West> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131102> owl:sameAs <http://dbpedia.org/resource/Frederick_V,_Elector_Palatine> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134732> owl:sameAs <http://dbpedia.org/resource/Katherine_Stanhope,_Countess_of_Chesterfield> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134179> owl:sameAs <http://dbpedia.org/resource/Percy_Smythe,_6th_Viscount_Strangford> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131234> owl:sameAs <http://dbpedia.org/resource/Mary_Moser> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134731> owl:sameAs <http://dbpedia.org/resource/Peggy_Ashcroft> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131101> owl:sameAs <http://dbpedia.org/resource/Edward_IV_of_England> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131232> owl:sameAs <http://dbpedia.org/resource/Angelica_Kauffmann> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134177> owl:sameAs <http://dbpedia.org/resource/Daniel_%22Monkey_Man%22_Roberts> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138722> owl:sameAs <http://dbpedia.org/resource/Richard_Temple-Grenville,_3rd_Duke_of_Buckingham_and_Chandos> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138721> owl:sameAs <http://dbpedia.org/resource/John_Pakington,_1st_Baron_Hampton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131230> owl:sameAs <http://dbpedia.org/resource/John_Thomas_Smith_%281766%E2%80%931833%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135909> owl:sameAs <http://dbpedia.org/resource/Marty_Wilson> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138720> owl:sameAs <http://dbpedia.org/resource/Richard_Bourke,_6th_Earl_of_Mayo> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133914> owl:sameAs <http://dbpedia.org/resource/George_Villiers,_2nd_Duke_of_Buckingham> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134726> owl:sameAs <http://dbpedia.org/resource/William_Beresford,_1st_Baron_Decies> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138718> owl:sameAs <http://dbpedia.org/resource/H._H._Asquith> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134857> owl:sameAs <http://dbpedia.org/resource/Edward_Russell,_1st_Earl_of_Orford> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138295> owl:sameAs <http://dbpedia.org/resource/William_Levett> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133911> owl:sameAs <http://dbpedia.org/resource/George_Villiers,_1st_Duke_of_Buckingham> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135904> owl:sameAs <http://dbpedia.org/resource/Henry_Bennet,_1st_Earl_of_Arlington> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138849> owl:sameAs <http://dbpedia.org/resource/Brent_Follett> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133910> owl:sameAs <http://dbpedia.org/resource/Ada_Lovelace> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135902> owl:sameAs <http://dbpedia.org/resource/John_Lambert_%28general%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134721> owl:sameAs <http://dbpedia.org/resource/Fat%E2%80%B2h-Ali_Shah_Qajar> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133909> owl:sameAs <http://dbpedia.org/resource/William_Currie_%28British_politician%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131222> owl:sameAs <http://dbpedia.org/resource/John_Inigo_Richards> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134851> owl:sameAs <http://dbpedia.org/resource/Faisal_I_of_Iraq> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133907> owl:sameAs <http://dbpedia.org/resource/Lady_Hester_Stanhope> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133906> owl:sameAs <http://dbpedia.org/resource/Walter_Scott> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133905> owl:sameAs <http://dbpedia.org/resource/Simon_Harcourt,_1st_Earl_Harcourt> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131219> owl:sameAs <http://dbpedia.org/resource/Joseph_Wilton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133903> owl:sameAs <http://dbpedia.org/resource/Beatrice_Portinari> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/133902> owl:sameAs <http://dbpedia.org/resource/Charles_Spencer,_3rd_Duke_of_Marlborough> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134714> owl:sameAs <http://dbpedia.org/resource/John_Loder,_2nd_Baron_Wakehurst> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130799> owl:sameAs <http://dbpedia.org/resource/James_Callaghan> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130798> owl:sameAs <http://dbpedia.org/resource/Edward_Heath> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130797> owl:sameAs <http://dbpedia.org/resource/Harold_Wilson> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131213> owl:sameAs <http://dbpedia.org/resource/Francis_Wheatley_%28VC%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130796> owl:sameAs <http://dbpedia.org/resource/Alec_Douglas-Home> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131345> owl:sameAs <http://dbpedia.org/resource/Adam_Duncan,_1st_Viscount_Duncan> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130795> owl:sameAs <http://dbpedia.org/resource/Harold_Macmillan> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130663> owl:sameAs <http://dbpedia.org/resource/Charlotte_of_Mecklenburg-Strelitz> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134025> owl:sameAs <http://dbpedia.org/resource/David_Eccles,_1st_Viscount_Eccles> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131344> owl:sameAs <http://dbpedia.org/resource/Pope_Pius_VI> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134024> owl:sameAs <http://dbpedia.org/resource/Charles_Powlett,_3rd_Duke_of_Bolton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134841> owl:sameAs <http://dbpedia.org/resource/Sir_George_Cornewall_Lewis,_2nd_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131211> owl:sameAs <http://dbpedia.org/resource/Charles_Catton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135599> owl:sameAs <http://dbpedia.org/resource/Richard_Addinsell> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135598> owl:sameAs <http://dbpedia.org/resource/Samuel_Taylor_Coleridge> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134839> owl:sameAs <http://dbpedia.org/resource/Rowland_Hill,_1st_Viscount_Hill> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134701> owl:sameAs <http://dbpedia.org/resource/Henry_Pottinger> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134700> owl:sameAs <http://dbpedia.org/resource/Richard_Wellesley,_1st_Marquess_Wellesley> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130784> owl:sameAs <http://dbpedia.org/resource/Clement_Attlee> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130783> owl:sameAs <http://dbpedia.org/resource/Winston_Churchill> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130782> owl:sameAs <http://dbpedia.org/resource/Neville_Chamberlain> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135587> owl:sameAs <http://dbpedia.org/resource/Eleonora_Duse> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130781> owl:sameAs <http://dbpedia.org/resource/Ramsay_MacDonald> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135586> owl:sameAs <http://dbpedia.org/resource/Thomas_Edison> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130780> owl:sameAs <http://dbpedia.org/resource/Stanley_Baldwin> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130779> owl:sameAs <http://dbpedia.org/resource/Bonar_Law> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130778> owl:sameAs <http://dbpedia.org/resource/David_Lloyd_George> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135582> owl:sameAs <http://dbpedia.org/resource/Matthew_White_Ridley,_1st_Viscount_Ridley> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130777> owl:sameAs <http://dbpedia.org/resource/Archibald_Primrose,_5th_Earl_of_Rosebery> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134007> owl:sameAs <http://dbpedia.org/resource/Napoleon_III> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130776> owl:sameAs <http://dbpedia.org/resource/Robert_Cecil,_3rd_Marquess_of_Salisbury> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134006> owl:sameAs <http://dbpedia.org/resource/Elizabeth_II> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130775> owl:sameAs <http://dbpedia.org/resource/William_Ewart_Gladstone> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134005> owl:sameAs <http://dbpedia.org/resource/Geoffrey_Fisher> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134004> owl:sameAs <http://dbpedia.org/resource/Bernard_Fitzalan-Howard,_16th_Duke_of_Norfolk> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130774> owl:sameAs <http://dbpedia.org/resource/Henry_John_Temple,_3rd_Viscount_Palmerston> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130773> owl:sameAs <http://dbpedia.org/resource/George_Hamilton-Gordon,_4th_Earl_of_Aberdeen> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134267> owl:sameAs <http://dbpedia.org/resource/Edward_Montagu,_1st_Earl_of_Sandwich> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134003> owl:sameAs <http://dbpedia.org/resource/Clementine_Churchill,_Baroness_Spencer-Churchill> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130772> owl:sameAs <http://dbpedia.org/resource/Edward_Smith-Stanley,_14th_Earl_of_Derby> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134266> owl:sameAs <http://dbpedia.org/resource/Anne_of_Denmark> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130771> owl:sameAs <http://dbpedia.org/resource/John_Russell,_1st_Earl_Russell> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130770> owl:sameAs <http://dbpedia.org/resource/Robert_Peel> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134265> owl:sameAs <http://dbpedia.org/resource/Eugen_Weidmann> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135444> owl:sameAs <http://dbpedia.org/resource/Karishmeh_Felfeli> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136098> owl:sameAs <http://dbpedia.org/resource/Richard_Webster,_1st_Viscount_Alverstone> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134263> owl:sameAs <http://dbpedia.org/resource/Edward_Vernon> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136097> owl:sameAs <http://dbpedia.org/resource/Alexander_Wylie_%28missionary%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136096> owl:sameAs <http://dbpedia.org/resource/Richard_Webster,_1st_Viscount_Alverstone> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135442> owl:sameAs <http://dbpedia.org/resource/George_Bernard_Shaw> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130769> owl:sameAs <http://dbpedia.org/resource/Charles_Grey,_2nd_Earl_Grey> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134261> owl:sameAs <http://dbpedia.org/resource/John_Simon,_1st_Viscount_Simon> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136095> owl:sameAs <http://dbpedia.org/resource/Raymond_Evershed,_1st_Baron_Evershed> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130768> owl:sameAs <http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135440> owl:sameAs <http://dbpedia.org/resource/Elizabeth_Fry> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130899> owl:sameAs <http://dbpedia.org/resource/George_V_of_the_United_Kingdom> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130767> owl:sameAs <http://dbpedia.org/resource/F._J._Robinson,_1st_Viscount_Goderich> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131315> owl:sameAs <http://dbpedia.org/resource/Pasquale_Paoli> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130898> owl:sameAs <http://dbpedia.org/resource/Henry_Bruce,_1st_Baron_Aberdare> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130766> owl:sameAs <http://dbpedia.org/resource/George_Canning> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130765> owl:sameAs <http://dbpedia.org/resource/Robert_Jenkinson,_2nd_Earl_of_Liverpool> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131314> owl:sameAs <http://dbpedia.org/resource/George_Spencer,_2nd_Earl_Spencer> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135438> owl:sameAs <http://dbpedia.org/resource/Sarah_Churchill,_Duchess_of_Marlborough> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131313> owl:sameAs <http://dbpedia.org/resource/Banastre_Tarleton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130764> owl:sameAs <http://dbpedia.org/resource/Spencer_Perceval> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130763> owl:sameAs <http://dbpedia.org/resource/William_Grenville,_1st_Baron_Grenville> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136090> owl:sameAs <http://dbpedia.org/resource/James_Stirling_%28architect%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134256> owl:sameAs <http://dbpedia.org/resource/William_Congreve> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130762> owl:sameAs <http://dbpedia.org/resource/Henry_Addington,_1st_Viscount_Sidmouth> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134255> owl:sameAs <http://dbpedia.org/resource/Joseph_Addison> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135699> owl:sameAs <http://dbpedia.org/resource/William_Bromley_%28speaker%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130761> owl:sameAs <http://dbpedia.org/resource/William_Pitt_Ballinger> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136089> owl:sameAs <http://dbpedia.org/resource/James_Stansfeld> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135566> owl:sameAs <http://dbpedia.org/resource/Arthur_Symons> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130760> owl:sameAs <http://dbpedia.org/resource/William_Cavendish-Bentinck,_3rd_Duke_of_Portland> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134254> owl:sameAs <http://dbpedia.org/resource/Izaak_Walton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135697> owl:sameAs <http://dbpedia.org/resource/George_Edmund_Street> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135565> owl:sameAs <http://dbpedia.org/resource/Bob_Marley> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136088> owl:sameAs <http://dbpedia.org/resource/Norman_Lamont,_Baron_Lamont_of_Lerwick> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135696> owl:sameAs <http://dbpedia.org/resource/Charles_Russell,_Baron_Russell_of_Killowen> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136087> owl:sameAs <http://dbpedia.org/resource/Prince_Leopold,_Duke_of_Albany> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131308> owl:sameAs <http://dbpedia.org/resource/John_Dalrymple,_2nd_Earl_of_Stair> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130759> owl:sameAs <http://dbpedia.org/resource/William_Petty,_2nd_Earl_of_Shelburne> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135695> owl:sameAs <http://dbpedia.org/resource/Thomas_Pelham,_2nd_Earl_of_Chichester> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131306> owl:sameAs <http://dbpedia.org/resource/Archduke_Wilhelm_Franz_of_Austria> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138929> owl:sameAs <http://dbpedia.org/resource/James_Wilson_%28businessman%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130757> owl:sameAs <http://dbpedia.org/resource/Frederick_North,_Lord_North> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130756> owl:sameAs <http://dbpedia.org/resource/Augustus_FitzRoy,_3rd_Duke_of_Grafton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138928> owl:sameAs <http://dbpedia.org/resource/Lord_Frederick_Cavendish> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138927> owl:sameAs <http://dbpedia.org/resource/George_Sclater-Booth,_1st_Baron_Basing> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135560> owl:sameAs <http://dbpedia.org/resource/James_Hamilton,_1st_Duke_of_Hamilton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136082> owl:sameAs <http://dbpedia.org/resource/Prince_George,_Duke_of_Cambridge> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130755> owl:sameAs <http://dbpedia.org/resource/William_Pitt,_1st_Earl_of_Chatham> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134249> owl:sameAs <http://dbpedia.org/resource/William_Scott,_1st_Baron_Stowell> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131303> owl:sameAs <http://dbpedia.org/resource/Henry_Pelham-Clinton,_2nd_Duke_of_Newcastle-under-Lyne> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130754> owl:sameAs <http://dbpedia.org/resource/Charles_Watson-Wentworth,_2nd_Marquess_of_Rockingham> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131302> owl:sameAs <http://dbpedia.org/resource/Robert_Faulknor_the_younger> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130753> owl:sameAs <http://dbpedia.org/resource/George_Grenville> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134246> owl:sameAs <http://dbpedia.org/resource/Elizabeth_Missing_Sewell> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131301> owl:sameAs <http://dbpedia.org/resource/Matthias_Ogden> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130752> owl:sameAs <http://dbpedia.org/resource/John_Stuart,_3rd_Earl_of_Bute> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130751> owl:sameAs <http://dbpedia.org/resource/William_Cavendish,_4th_Duke_of_Devonshire> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138923> owl:sameAs <http://dbpedia.org/resource/Leonard_Courtney,_1st_Baron_Courtney_of_Penwith> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135689> owl:sameAs <http://dbpedia.org/resource/Francis_Jeune,_1st_Baron_St_Helier> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135425> owl:sameAs <http://dbpedia.org/resource/James_Wolfe> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130750> owl:sameAs <http://dbpedia.org/resource/Thomas_Pelham-Holles,_1st_Duke_of_Newcastle> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135424> owl:sameAs <http://dbpedia.org/resource/William_Stukeley> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138922> owl:sameAs <http://dbpedia.org/resource/Henry_Holland,_1st_Viscount_Knutsford> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135688> owl:sameAs <http://dbpedia.org/resource/Daniel_Finch,_2nd_Earl_of_Nottingham> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135423> owl:sameAs <http://dbpedia.org/resource/Niccol%C3%B2_Paganini> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138920> owl:sameAs <http://dbpedia.org/resource/Edward_Cardwell,_1st_Viscount_Cardwell> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135686> owl:sameAs <http://dbpedia.org/resource/Nicholas_Henderson> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135422> owl:sameAs <http://dbpedia.org/resource/Jean_Auguste_Dominique_Ingres> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134242> owl:sameAs <http://dbpedia.org/resource/Maximiliano_Hern%C3%A1ndez_Mart%C3%ADnez> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130749> owl:sameAs <http://dbpedia.org/resource/Henry_Pelham> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135685> owl:sameAs <http://dbpedia.org/resource/John_Thurloe> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135421> owl:sameAs <http://dbpedia.org/resource/Ludwig_Briand> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130748> owl:sameAs <http://dbpedia.org/resource/Spencer_Compton,_1st_Earl_of_Wilmington> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136075> owl:sameAs <http://dbpedia.org/resource/John_Campbell,_2nd_Marquess_of_Breadalbane> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135684> owl:sameAs <http://dbpedia.org/resource/Francis_Cottington,_1st_Baron_Cottington> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130747> owl:sameAs <http://dbpedia.org/resource/William_Pulteney,_1st_Earl_of_Bath> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134109> owl:sameAs <http://dbpedia.org/resource/Jean_Gilbert_Victor_Fialin,_duc_de_Persigny> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136074> owl:sameAs <http://dbpedia.org/resource/Edward_Eliot,_3rd_Earl_of_St_Germans> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135420> owl:sameAs <http://dbpedia.org/resource/William_Huskisson> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130746> owl:sameAs <http://dbpedia.org/resource/Charles_Spencer,_3rd_Earl_of_Sunderland> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138918> owl:sameAs <http://dbpedia.org/resource/Marie_Taglioni> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136073> owl:sameAs <http://dbpedia.org/resource/John_Sumner_%28bishop%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135551> owl:sameAs <http://dbpedia.org/resource/Victoria,_Princess_Royal> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138363> owl:sameAs <http://dbpedia.org/resource/Gordon_Bastian> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135550> owl:sameAs <http://dbpedia.org/resource/Dante_Alighieri> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130745> owl:sameAs <http://dbpedia.org/resource/Thomas_Howard,_5th_Duke_of_Norfolk> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130744> owl:sameAs <http://dbpedia.org/resource/Thomas_Howard,_21st_Earl_of_Arundel> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136071> owl:sameAs <http://dbpedia.org/resource/Augusta_of_Saxe-Weimar-Eisenach> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135680> owl:sameAs <http://dbpedia.org/resource/Francis_Walsingham> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138361> owl:sameAs <http://dbpedia.org/resource/George_Lloyd_Hodges> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136070> owl:sameAs <http://dbpedia.org/resource/Ernest_II,_Duke_of_Saxe-Coburg_and_Gotha> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134236> owl:sameAs <http://dbpedia.org/resource/Edward_Dodwell> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135679> owl:sameAs <http://dbpedia.org/resource/Frederick_Stanley,_16th_Earl_of_Derby> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135546> owl:sameAs <http://dbpedia.org/resource/William_Legge,_1st_Earl_of_Dartmouth> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135678> owl:sameAs <http://dbpedia.org/resource/Francis_Rawdon-Hastings,_1st_Marquess_of_Hastings> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136069> owl:sameAs <http://dbpedia.org/resource/Frederick_III,_German_Emperor> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135545> owl:sameAs <http://dbpedia.org/resource/George_Douglas-Hamilton,_1st_Earl_of_Orkney> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136068> owl:sameAs <http://dbpedia.org/resource/Thomas_de_Grey,_6th_Baron_Walsingham> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134101> owl:sameAs <http://dbpedia.org/resource/John_Gurwood> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136067> owl:sameAs <http://dbpedia.org/resource/George_Frideric_Handel> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134100> owl:sameAs <http://dbpedia.org/resource/Napol%C3%A9on_Joseph_Charles_Paul_Bonaparte> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134364> owl:sameAs <http://dbpedia.org/resource/Martin_Frobisher> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136066> owl:sameAs <http://dbpedia.org/resource/James_Stuart,_1st_Viscount_Stuart_of_Findhorn> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130739> owl:sameAs <http://dbpedia.org/resource/James_Stanhope,_1st_Earl_Stanhope> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134363> owl:sameAs <http://dbpedia.org/resource/Charles_Howard,_1st_Earl_of_Nottingham> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135674> owl:sameAs <http://dbpedia.org/resource/Henry_Reeve> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130737> owl:sameAs <http://dbpedia.org/resource/Charles_Howard,_3rd_Earl_of_Carlisle> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136064> owl:sameAs <http://dbpedia.org/resource/John_Maclay,_1st_Viscount_Muirshiel> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136063> owl:sameAs <http://dbpedia.org/resource/George_Younger,_4th_Viscount_Younger_of_Leckie> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135673> owl:sameAs <http://dbpedia.org/resource/Robert_Devereux,_2nd_Earl_of_Essex> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135541> owl:sameAs <http://dbpedia.org/resource/Oliver_Goldsmith> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130736> owl:sameAs <http://dbpedia.org/resource/Benjamin_Disraeli> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135672> owl:sameAs <http://dbpedia.org/resource/Prince_Philip,_Duke_of_Edinburgh> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135540> owl:sameAs <http://dbpedia.org/resource/Thomas_Warton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131416> owl:sameAs <http://dbpedia.org/resource/Cuthbert_Collingwood,_1st_Baron_Collingwood> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130735> owl:sameAs <http://dbpedia.org/resource/William_Lamb,_2nd_Viscount_Melbourne> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136061> owl:sameAs <http://dbpedia.org/resource/Willie_Ross,_Baron_Ross_of_Marnock> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138906> owl:sameAs <http://dbpedia.org/resource/John_Kay_%28spinning_frame%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130734> owl:sameAs <http://dbpedia.org/resource/Charles_Talbot,_1st_Duke_of_Shrewsbury> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134359> owl:sameAs <http://dbpedia.org/resource/Augustus> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130733> owl:sameAs <http://dbpedia.org/resource/Robert_Harley,_1st_Earl_of_Oxford_and_Earl_Mortimer> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136060> owl:sameAs <http://dbpedia.org/resource/Edward_Elgar> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131414> owl:sameAs <http://dbpedia.org/resource/Sir_Charles_Cotton,_5th_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135538> owl:sameAs <http://dbpedia.org/resource/Samuel_Johnson> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130732> owl:sameAs <http://dbpedia.org/resource/Sidney_Godolphin,_1st_Earl_of_Godolphin> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134357> owl:sameAs <http://dbpedia.org/resource/John_Sinclair,_1st_Baron_Pentland> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135537> owl:sameAs <http://dbpedia.org/resource/James_Boswell> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130731> owl:sameAs <http://dbpedia.org/resource/Charles_Montagu,_1st_Earl_of_Halifax> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135535> owl:sameAs <http://dbpedia.org/resource/Benjamin_Britten> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136058> owl:sameAs <http://dbpedia.org/resource/Henry_Fox,_1st_Baron_Holland> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134223> owl:sameAs <http://dbpedia.org/resource/William_Gell> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135799> owl:sameAs <http://dbpedia.org/resource/Christopher_Paul_Neil> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135666> owl:sameAs <http://dbpedia.org/resource/Denis_Healey> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136057> owl:sameAs <http://dbpedia.org/resource/John_Horne_Tooke> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134486> owl:sameAs <http://dbpedia.org/resource/Henry_Rawlinson,_1st_Baron_Rawlinson> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134222> owl:sameAs <http://dbpedia.org/resource/Henry_John_Rous> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135798> owl:sameAs <http://dbpedia.org/resource/Robert_Carr> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135533> owl:sameAs <http://dbpedia.org/resource/Sir_Richard_Hill,_2nd_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135797> owl:sameAs <http://dbpedia.org/resource/Leopold_Reimann> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135665> owl:sameAs <http://dbpedia.org/resource/Geoffrey_Howe> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135532> owl:sameAs <http://dbpedia.org/resource/Jan_Palach> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134485> owl:sameAs <http://dbpedia.org/resource/George_Mills_%28Worcestershire_cricketer%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135796> owl:sameAs <http://dbpedia.org/resource/William_John_Codrington> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135664> owl:sameAs <http://dbpedia.org/resource/Louis-Hippolyte_Lafontaine> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135663> owl:sameAs <http://dbpedia.org/resource/Francis_Hopwood,_1st_Baron_Southborough> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135531> owl:sameAs <http://dbpedia.org/resource/Guillaume_Apollinaire> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135795> owl:sameAs <http://dbpedia.org/resource/Sir_Augustus_Foster,_1st_Baronet> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136054> owl:sameAs <http://dbpedia.org/resource/Daniel_Florence_O%27Leary> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130858> owl:sameAs <http://dbpedia.org/resource/Robert_Stewart,_Viscount_Castlereagh> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/134350> owl:sameAs <http://dbpedia.org/resource/Alexander_Ranaldson_MacDonell_of_Glengarry> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135530> owl:sameAs <http://dbpedia.org/resource/Kenton_Couse> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135662> owl:sameAs <http://dbpedia.org/resource/Princess_Louise,_Duchess_of_Argyll> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130857> owl:sameAs <http://dbpedia.org/resource/Austen_Chamberlain> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135794> owl:sameAs <http://dbpedia.org/resource/Cal_Cunningham> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136052> owl:sameAs <http://dbpedia.org/resource/Francesco_Zuccarelli> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130856> owl:sameAs <http://dbpedia.org/resource/Charles_II_of_England> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135793> owl:sameAs <http://dbpedia.org/resource/Princess_Charlotte_of_Wales> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135660> owl:sameAs <http://dbpedia.org/resource/Princess_Augusta_of_Saxe-Gotha> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130855> owl:sameAs <http://dbpedia.org/resource/Henry_Petty-Fitzmaurice,_5th_Marquess_of_Lansdowne> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135529> owl:sameAs <http://dbpedia.org/resource/Robert_Falcon_Scott> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135792> owl:sameAs <http://dbpedia.org/resource/Barrington_Dacres> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130854> owl:sameAs <http://dbpedia.org/resource/William_III_of_England> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135791> owl:sameAs <http://dbpedia.org/resource/John_C._Lettsome> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135527> owl:sameAs <http://dbpedia.org/resource/Albert_Bassermann> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130853> owl:sameAs <http://dbpedia.org/resource/Queen_Victoria> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135526> owl:sameAs <http://dbpedia.org/resource/Francis_North,_1st_Baron_Guilford> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130852> owl:sameAs <http://dbpedia.org/resource/George_II_of_Great_Britain> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130720> owl:sameAs <http://dbpedia.org/resource/Richard_Weston,_1st_Earl_of_Portland> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130851> owl:sameAs <http://dbpedia.org/resource/Caroline_of_Ansbach> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135789> owl:sameAs <http://dbpedia.org/resource/Louis_Maurice_Adolphe_Linant_de_Bellefonds> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130850> owl:sameAs <http://dbpedia.org/resource/George_I_of_Great_Britain> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135656> owl:sameAs <http://dbpedia.org/resource/Humphry_Davy> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130981> owl:sameAs <http://dbpedia.org/resource/Charles_XII_of_Sweden> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135787> owl:sameAs <http://dbpedia.org/resource/William_Home,_8th_Earl_of_Home> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135786> owl:sameAs <http://dbpedia.org/resource/Richard_Cobden> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135653> owl:sameAs <http://dbpedia.org/resource/Norman_Blamey> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135784> owl:sameAs <http://dbpedia.org/resource/Thomas_Fletcher_Waghorn> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136043> owl:sameAs <http://dbpedia.org/resource/Dominic_Serres> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/139015> owl:sameAs <http://dbpedia.org/resource/Walter_Long,_1st_Viscount_Long> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135783> owl:sameAs <http://dbpedia.org/resource/Patrick_Campbell_%28British_Army_officer%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130978> owl:sameAs <http://dbpedia.org/resource/Peter_Paul_Rubens> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138464> owl:sameAs <http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130977> owl:sameAs <http://dbpedia.org/resource/William_Shakespeare> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/138463> owl:sameAs <http://dbpedia.org/resource/John_Wodehouse,_1st_Earl_of_Kimberley> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135097> owl:sameAs <http://dbpedia.org/resource/Franz_Joseph_I_of_Austria> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130976> owl:sameAs <http://dbpedia.org/resource/Edward_VI_of_England> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130844> owl:sameAs <http://dbpedia.org/resource/Charles_I_of_England> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130975> owl:sameAs <http://dbpedia.org/resource/Mary,_Queen_of_Scots> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135649> owl:sameAs <http://dbpedia.org/resource/Charles_de_Gaulle> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136039> owl:sameAs <http://dbpedia.org/resource/George_Michael_Moser> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135780> owl:sameAs <http://dbpedia.org/resource/David_Roberts_%28painter%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130843> owl:sameAs <http://dbpedia.org/resource/Elizabeth_of_Bohemia> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135095> owl:sameAs <http://dbpedia.org/resource/Selwyn_Lloyd> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130842> owl:sameAs <http://dbpedia.org/resource/William_Gore_Ouseley> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130974> owl:sameAs <http://dbpedia.org/resource/Edward_III_of_England> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135648> owl:sameAs <http://dbpedia.org/resource/George_Brown,_Baron_George-Brown> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/136038> owl:sameAs <http://dbpedia.org/resource/Jeremiah_Meyer> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135094> owl:sameAs <http://dbpedia.org/resource/Edward_Harley,_2nd_Earl_of_Oxford_and_Earl_Mortimer> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135515> owl:sameAs <http://dbpedia.org/resource/Yuri_Gagarin> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135779> owl:sameAs <http://dbpedia.org/resource/Muhammad_Ali> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130973> owl:sameAs <http://dbpedia.org/resource/Frederick_Henry,_Prince_of_Orange> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130841> owl:sameAs <http://dbpedia.org/resource/Stratford_Canning,_1st_Viscount_Stratford_de_Redcliffe> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135093> owl:sameAs <http://dbpedia.org/resource/Henry_Boyle,_1st_Baron_Carleton> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135514> owl:sameAs <http://dbpedia.org/resource/Buddy_Holly> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135646> owl:sameAs <http://dbpedia.org/resource/Arabella_Hunt> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/139008> owl:sameAs <http://dbpedia.org/resource/Gordon_Brown> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130972> owl:sameAs <http://dbpedia.org/resource/William_Kent> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130840> owl:sameAs <http://dbpedia.org/resource/Charles_Barry> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135092> owl:sameAs <http://dbpedia.org/resource/Laurence_Hyde,_1st_Earl_of_Rochester> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135513> owl:sameAs <http://dbpedia.org/resource/Abraham_Lincoln_%28captain%29> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130971> owl:sameAs <http://dbpedia.org/resource/Francis_Bertie,_1st_Viscount_Bertie_of_Thame> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131099> owl:sameAs <http://dbpedia.org/resource/Frederick_Francis_Liddell> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135091> owl:sameAs <http://dbpedia.org/resource/Anthony_Ashley_Cooper,_1st_Earl_of_Shaftesbury> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130970> owl:sameAs <http://dbpedia.org/resource/Maria_Theresa_of_Naples_and_Sicily> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135090> owl:sameAs <http://dbpedia.org/resource/Bernard_Montgomery,_1st_Viscount_Montgomery_of_Alamein> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131098> owl:sameAs <http://dbpedia.org/resource/Frederick_Cornwallis> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135776> owl:sameAs <http://dbpedia.org/resource/Albert_Kesselring> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130839> owl:sameAs <http://dbpedia.org/resource/Keith_Murray,_Baron_Murray_of_Newhaven> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135774> owl:sameAs <http://dbpedia.org/resource/Arthur_Bigge,_1st_Baron_Stamfordham> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/135510> owl:sameAs <http://dbpedia.org/resource/George_Hay,_1st_Earl_of_Kinnoull> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/130838> owl:sameAs <http://dbpedia.org/resource/Alexander_Hume-Campbell,_2nd_Earl_of_Marchmont> .
+
+<http://data.kasabi.com/dataset/government-art-collection/sitters/131097> owl:sameAs <http://dbpedia.org/resource/Sir_Henry_Chamberlain,_1st_Baronet> .

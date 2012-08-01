@@ -1,0 +1,9 @@
+Modelling improvements:
+
+* Series and Portfolio title?
+
+Other Tasks:
+
+* Documentation
+* Sample queries
+* Sample APIs

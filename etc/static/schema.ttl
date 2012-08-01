@@ -1,0 +1,74 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+@prefix gac: <http://data.kasabi.com/dataset/government-art-collection/schema/> .
+
+<http://data.kasabi.com/dataset/government-art-collection/schema>
+ a owl:Ontology;
+ dcterms:title "Government Art Collection Schema";
+ dcterms:description "A simple OWL ontology the Government Art Collection";
+ rdfs:seeAlso gac:ArtWork;
+ rdfs:seeAlso gac:Artist;
+ rdfs:seeAlso gac:number;
+ rdfs:seeAlso gac:place;
+ rdfs:seeAlso gac:depiction;
+ rdfs:seeAlso gac:depicts.
+ 
+ gac:ArtWork a rdfs:Class, owl:Class;
+  rdfs:isDefinedBy <http://data.kasabi.com/dataset/government-art-collection/schema>;
+  rdfs:label "ArtWork";
+  rdfs:comment """An art work""". 
+
+ gac:Artist a rdfs:Class, owl:Class;
+  rdfs:isDefinedBy <http://data.kasabi.com/dataset/government-art-collection/schema>;
+  rdfs:label "Artist";
+  rdfs:comment """An artist""". 
+   
+ gac:number
+  a rdf:Property;
+  a owl:DatatypeProperty;
+  a owl:InverseFunctionalProperty;
+  rdfs:isDefinedBy <http://data.kasabi.com/dataset/government-art-collection/schema>;
+  rdfs:subPropertyOf dcterms:identifier;
+  rdfs:label "number"; 
+  rdfs:comment """A unique number identifying an object in the Government Art Collection""".
+
+ gac:place
+  a rdf:Property;
+  a owl:ObjectProperty;
+  rdfs:isDefinedBy <http://data.kasabi.com/dataset/government-art-collection/schema>;
+  rdfs:label "place";
+  rdfs:domain gac:ArtWork; 
+  rdfs:comment """Associates an art work with a place. The artwork may depict or represent 
+  the place""".
+
+ gac:depiction
+  a rdf:Property;
+  a owl:ObjectProperty;
+  rdfs:isDefinedBy <http://data.kasabi.com/dataset/government-art-collection/schema>;
+  rdfs:label "depiction";
+  rdfs:domain foaf:Agent; 
+  rdfs:range gac:ArtWork;  
+  rdfs:comment """Associates someone with an an art work that depicts them""". 
+
+ gac:depicts
+  a rdf:Property;
+  a owl:ObjectProperty;
+  rdfs:isDefinedBy <http://data.kasabi.com/dataset/government-art-collection/schema>;
+  rdfs:label "depicts";
+  rdfs:domain gac:ArtWork; 
+  rdfs:range foaf:Agent;  
+  rdfs:comment """Associates an art work with someone it depicts""". 
+
+
+
+ <http://data.kasabi.com/dataset/government-art-collection/subjects>
+	a skos:ConceptScheme;
+	dcterms:title "Government Art Collection Subject Categories";
+	dcterms:description "Subject categories from the Government Art Collection". 
